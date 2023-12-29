@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37648167961",
+    "project_id": "lab4-0-shafiq",
+    "storage_bucket": "lab4-0-shafiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37648167961:android:5ae2746fc6d1585882e688",
+        "android_client_info": {
+          "package_name": "com.example.lab40_shafiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LV8PTKkZlTyZZriMPBepxg6UXWi80mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
